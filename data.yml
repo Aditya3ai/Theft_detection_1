@@ -1,0 +1,4 @@
+train: C:/Users/aditya/Desktop/theft_detetction/yolov5/dataset/train/images
+val: C:/Users/aditya/Desktop/theft_detetction/yolov5/dataset/val/images
+nc: 1  # Number of classes (change as needed)
+names: ['class_name']  # List of class names
